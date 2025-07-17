@@ -1,7 +1,5 @@
 # EventCraft - Event Management System
 
-![EventCraft Logo](https://via.placeholder.com/150x50?text=EventCraft)
-
 A comprehensive event management platform built with MERN stack (MongoDB, Express.js, React, Node.js) that enables users to create, discover, and manage events with ease.
 
 ## 📋 Table of Contents
@@ -187,7 +185,7 @@ flowchart TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/eventcraft.git
+git clone https://github.com/priyanshuyadav48/eventcraft.git
 cd eventcraft
 ```
 
@@ -269,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name
+  Made with ❤️ by Priyanshu & Manik 
 </div>
 
 3. Set up environment variables:
