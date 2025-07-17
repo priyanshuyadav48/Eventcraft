@@ -253,10 +253,6 @@ npm run build
 - Optimize database queries
 - Implement CDN for static assets
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [React](https://reactjs.org/)
