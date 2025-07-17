@@ -263,7 +263,7 @@ npm run build
 ---
 
 <div align="center">
-  Made with ❤️ by Priyanshu & Manik 
+  Made by Manik Sehrawat & Priyanshu Yadav
 </div>
 
 3. Set up environment variables:
